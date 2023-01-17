@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
