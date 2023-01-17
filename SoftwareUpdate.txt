@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add horizontal Mosaic3 augmentation (#6898)
