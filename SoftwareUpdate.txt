@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Add ONNX Docs integrations page (#7802)
