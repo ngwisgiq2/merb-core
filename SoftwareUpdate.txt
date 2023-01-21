@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Avoid creating -hub dir without processing images (#8334)
