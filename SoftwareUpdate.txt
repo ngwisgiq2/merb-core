@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Merge pull request #22 from SkalskiP/patch-1
