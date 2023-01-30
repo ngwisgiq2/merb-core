@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
