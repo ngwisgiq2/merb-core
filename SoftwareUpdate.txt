@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Docs partial mdformat improvements (#7378)
