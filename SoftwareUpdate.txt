@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
