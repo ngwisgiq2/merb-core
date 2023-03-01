@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
