@@ -1,1 +1,1 @@
-Add https://youtu.be/YDXKa1EljmU and https://youtu.be/5BO0Il_YYAg to Docs (#8958)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
