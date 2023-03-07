@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add brain-tumor dataset docs page (#9041)
