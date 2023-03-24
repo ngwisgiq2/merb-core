@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Compare plt.get_backend() in lowercase (#8409)
