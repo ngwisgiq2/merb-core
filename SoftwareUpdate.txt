@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Fix xyxyxyxyn calculation, swap axis (#8249)
