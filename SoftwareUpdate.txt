@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
