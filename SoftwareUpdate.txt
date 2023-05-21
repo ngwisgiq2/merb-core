@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
