@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Update Colab notebook for YOLOv8.1 (#8660)
