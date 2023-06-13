@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
