@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+fix yolo classify model loading error (#9196)
