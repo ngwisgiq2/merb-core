@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
