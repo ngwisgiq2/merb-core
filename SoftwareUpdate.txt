@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
