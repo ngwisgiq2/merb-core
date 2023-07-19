@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Explorer Cleanup (#7364)
