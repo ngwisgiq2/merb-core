@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+OpenVino 2024.0.0 (#8726)
