@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
