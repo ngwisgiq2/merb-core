@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
