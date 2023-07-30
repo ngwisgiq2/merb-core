@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+fix for KeyError: 'epoch' (#48)
