@@ -1,1 +1,1 @@
-fix predict with class filter
+Add TorchScript Docs Integrations Page (#8501)
