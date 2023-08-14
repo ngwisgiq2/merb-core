@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
