@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add YOLOv8 LibTorch C++ inference example (#7090)
