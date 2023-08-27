@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Elaborate Train and Predict mode docs arguments (#8137)
