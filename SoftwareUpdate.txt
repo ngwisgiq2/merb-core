@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Add quantization support to TensorFlow.js converter (#7008)
