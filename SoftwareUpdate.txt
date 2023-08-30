@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Mkdocs annotations fixes (#7600)
