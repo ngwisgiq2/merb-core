@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Avoid creating -hub dir without processing images (#8334)
