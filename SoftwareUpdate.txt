@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Update pyproject.toml and Docs (#7274)
