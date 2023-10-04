@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+* fix for predicting with batch_size > 1
