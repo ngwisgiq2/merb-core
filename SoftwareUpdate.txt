@@ -1,1 +1,1 @@
-added badges (#45)
+Cleanup Docs languages (#7865)
