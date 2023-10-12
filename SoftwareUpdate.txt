@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Fix Multi-GPU resume bug (#7328)
