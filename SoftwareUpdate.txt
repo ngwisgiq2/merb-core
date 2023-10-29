@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
