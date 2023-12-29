@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+fix for predicting with batch_size > 1 (#47)
