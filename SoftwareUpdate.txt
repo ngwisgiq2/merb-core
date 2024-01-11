@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Fix OpenVINO missing batch-size bug (#9264)
