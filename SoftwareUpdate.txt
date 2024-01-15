@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Optimize function calls to method calls (#8507)
