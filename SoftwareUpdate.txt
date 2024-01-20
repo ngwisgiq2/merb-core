@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+New HUB Cloud Training docs page (#8174)
