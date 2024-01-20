@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Avoid creating -hub dir without processing images (#8334)
