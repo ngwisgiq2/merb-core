@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add type hinting to explorer.py (#7388)
