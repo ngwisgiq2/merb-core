@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Add PR Summary step to Ultralytics Actions (#7675)
