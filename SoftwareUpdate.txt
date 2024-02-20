@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
