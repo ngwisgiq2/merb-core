@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
