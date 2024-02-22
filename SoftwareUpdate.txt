@@ -1,1 +1,1 @@
-added badges (#45)
+Python refactorings and simplifications (#7549)
