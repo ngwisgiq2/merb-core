@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
