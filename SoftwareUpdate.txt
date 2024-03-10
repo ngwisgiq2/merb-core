@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+ultralytics 8.0.226 Validator Path and Tuner space (#6901)
