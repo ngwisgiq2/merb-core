@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
