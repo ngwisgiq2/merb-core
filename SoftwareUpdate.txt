@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Fix device counting method to account for double-digit device IDs (#8502)
