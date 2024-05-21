@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Use pathlib in DOTA ops (#7552)
