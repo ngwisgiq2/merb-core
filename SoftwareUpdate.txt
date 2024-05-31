@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Update neural-magic.md (#7347)
