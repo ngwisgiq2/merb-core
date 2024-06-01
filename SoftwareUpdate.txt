@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Rename model_id to model.id (#8447)
