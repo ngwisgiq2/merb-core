@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Fix Yolo 8.0.206 scale bug (#7821)
