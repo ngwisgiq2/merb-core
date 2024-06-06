@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+fix for predicting with batch_size > 1 (#47)
