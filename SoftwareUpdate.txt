@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
