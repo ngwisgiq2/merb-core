@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
