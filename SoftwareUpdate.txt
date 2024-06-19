@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
