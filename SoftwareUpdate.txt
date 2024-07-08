@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
