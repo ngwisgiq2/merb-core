@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Add new YOLOv8 OBB model metrics (#7379)
