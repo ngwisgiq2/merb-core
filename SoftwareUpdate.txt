@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
