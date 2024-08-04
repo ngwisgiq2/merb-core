@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
