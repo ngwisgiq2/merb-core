@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add YOLOv9 Docs page (#8478)
